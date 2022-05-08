@@ -251,8 +251,7 @@ a {
   text-decoration: underline;
 
   
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-
+  
 }
 a:hover {
   color: #0a58ca;
@@ -11323,22 +11322,19 @@ textarea.form-control-lg {
   padding: 0.875rem 1.25rem;
   font-size: 1.2rem;
 
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
  
 }
 
 #sidebar-wrapper .list-group {
   width: 15rem;
 
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
  
 }
 
 #page-content-wrapper {
   min-width: 100vw;
 
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
- 
+  
 }
 
 body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
@@ -11350,8 +11346,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
   #sidebar-wrapper {
     margin-left: 0;
 
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
- 
+    
   }
 
   #page-content-wrapper {
@@ -11359,8 +11354,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     width: 100%;
  
     
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-
+  
   }
 
   body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
@@ -11373,16 +11367,5 @@ li
 {
   
   background: linear-gradient(-45deg, #135678, #101214, #ffc107, #d1d2d4);
-
-}
-button
-{
-  
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-
-}
-#navbarSupportedContent
-{
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 
 }
