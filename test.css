@@ -12,6 +12,11 @@ body {
   box-sizing: border-box;
 }
 
+form {
+  margin: 0 auto;
+  border: #e16365;
+}
+
 img {
   border-radius: 50%;
 }
@@ -76,28 +81,4 @@ strong {
 
 .footer {
   text-align: center;
-}
-
-@media only screen and (max-width: 768px) {
-  body {
-    margin: left 0;
-  }
-
-  #navBar {
-    width: 100vm;
-    transform: translateX(-1000px);
-    transition: transform 500ms;
-  }
-
-  #navBar.open {
-    transform: translateX(0);
-  }
-
-  .nav-items > li {
-    text-align: center;
-  }
-
-  #hamburgerBtn {
-    display: inline-block;
-  }
 }/*# sourceMappingURL=test.css.map */

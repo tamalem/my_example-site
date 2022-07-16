@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+* {
+  font-family: "Raleway", sans-serif;
+  margin: 0 auto;
+}
+
+.contener {
+  max-width: 100%;
+  width: 500px;
+  border: 1px solid #f1f1f1;
+  text-align: center;
+  background-color: rgb(170, 175, 172);
+  margin: 40px auto;
+  border-radius: 5px;
+}
+.contener form .input1 {
+  width: 90%;
+  height: 60px;
+  border-radius: 5px;
+  outline: hidden;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: none;
+}
+.contener form .login12 {
+  background-color: rgb(28, 124, 156);
+  width: 250px;
+  height: 60px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.contener form .login12:hover {
+  opacity: 0.8;
+  color: #f1f1f1;
+}
+.contener form .p1 {
+  margin-bottom: 20px;
+}
+.contener form .signup12 {
+  background-color: rgb(25, 221, 84);
+  width: 250px;
+  height: 60px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.contener form .signup12:hover {
+  opacity: 0.8;
+  color: #f1f1f1;
+}
+.contener form .p11 {
+  margin-bottom: 20px;
+}
+.contener form .p11 a {
+  margin-bottom: 10px;
+}
+.contener form .p11 a:hover {
+  opacity: 0.8;
+}
+.contener form .p11 a:active {
+  color: #fff;
+}
+
+@media screen and (max-width: 450px) {
+  .contener {
+    max-width: 100%;
+    width: 300px;
+  }
+  .contener form {
+    max-width: 100%;
+    width: 300px;
+  }
+}/*# sourceMappingURL=style.css.map */
